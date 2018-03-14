@@ -1,7 +1,9 @@
 import os
 import numpy
 
+#location of dspace export root
 root = 'C:\\item_2598\\1'
+#location to place processed files.  Directory must be created beforehand
 processed = 'C:\processed\\'
 
 
